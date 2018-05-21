@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ANSIEscapeCode",
+        "repositoryURL": "https://github.com/flintbox/ANSIEscapeCode",
+        "state": {
+          "branch": null,
+          "revision": "c08018715fdfd42befdae7d92ccfe4ab9fdecfbb",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
