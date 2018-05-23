@@ -13,7 +13,7 @@ let package = Package(
             targets: ["motor-example"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/flintbox/ANSIEscapeCode", from: "0.1.0"),
+        .package(url: "https://github.com/flintbox/ANSIEscapeCode", from: "0.1.1"),
     ],
     targets: [
         .target(
