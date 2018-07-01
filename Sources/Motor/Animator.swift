@@ -33,9 +33,9 @@ open class Animator: Operation {
     open var text = ""
 
     /// Spinner animation.
-    open let spinner: Animation
+    public let spinner: Animation
     /// Delay before starting animation.
-    open let delay: UInt32
+    public let delay: UInt32
 
     /// Initialize animator.
     ///

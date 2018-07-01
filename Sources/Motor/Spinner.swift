@@ -32,12 +32,12 @@ open class Spinner {
     /// Spinner animator.
     open private(set) var animator: Animator?
     /// Operation queue to run animation.
-    open let queue = OperationQueue()
+    public let queue = OperationQueue()
 
     /// Spinner pattern.
-    open let pattern: Pattern
+    public let pattern: Pattern
     /// Delay before starting animation.
-    open let delay: UInt32
+    public let delay: UInt32
 
     /// Initialize spinner.
     ///
