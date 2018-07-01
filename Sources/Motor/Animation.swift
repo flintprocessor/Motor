@@ -34,7 +34,7 @@ open class Animation {
     open private(set) var frame = ""
 
     /// Spinner pattern.
-    open let pattern: Pattern
+    public let pattern: Pattern
 
     /// Initialize animation.
     ///
